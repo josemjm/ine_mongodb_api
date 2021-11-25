@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# MongoDB data
+data_db/
+
+#ipynb
+Compartido/
